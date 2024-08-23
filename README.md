@@ -28,5 +28,5 @@
 <img width="400" src="https://github.com/user-attachments/assets/d19cc91b-3efb-4228-970b-0b7841ded5ff" align="left">
 <p align="right"> 
             <a href="https://github.com/search?q=user%3Adbcalitis+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=green"></a>
-           <a href="https://github.com/search?q=user%3Adbcalitis+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=green"></a>
+            <a href="https://github.com/search?q=user%3Adbcalitis+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=green"></a>
 </p>
