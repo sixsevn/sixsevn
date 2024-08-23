@@ -12,7 +12,7 @@
     I am a Computer Science student in the Software Engineering Stream at Carleton University. 
   </li>
   <li>
-    When I'm not studying, I am playing video games or drawing. 
+    When I'm not studying or doing school work, I am playing video games or drawing. 
   </li>
 </div>
 
