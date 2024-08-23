@@ -3,6 +3,10 @@
 <div align="center">
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/user-attachments/assets/a3a38405-69d8-4b5a-b042-7bbc2faa3e42"/>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!-- Details About Person-->
 <h2 align="center"> About Me </h2>
@@ -16,6 +20,8 @@
   </li>
 </div>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
