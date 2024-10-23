@@ -33,5 +33,5 @@
 <h2 align="center"> Languages </h2>
 <img width="400" src="https://github.com/user-attachments/assets/d19cc91b-3efb-4228-970b-0b7841ded5ff" align="left">
 <p align="right"> 
-           
+           C, Java, Python
 </p>
