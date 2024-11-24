@@ -33,5 +33,5 @@
 <h2 align="center"> Languages </h2>
 <img width="400" src="https://github.com/user-attachments/assets/d19cc91b-3efb-4228-970b-0b7841ded5ff" align="left">
 <p align="right"> 
-           C, Java, Python
+           ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=green), ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=green), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
 </p>
