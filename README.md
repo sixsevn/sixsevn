@@ -13,7 +13,7 @@
 <div>
   <img hight="300" width="400" src="https://github.com/user-attachments/assets/c32ffe35-45ec-4577-bc76-f00b11b72448" align ="right"/>
   <li>
-    I am a Computer Science student in the Software Engineering Stream at Carleton University. 
+    I am a Computer Science student in the AI Intelligence and Machine Language at Carleton University. 
   </li>
   <li>
     When I'm not studying or doing school work, I am playing video games or drawing. 
